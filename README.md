@@ -4,7 +4,7 @@
 
 <h1 align="center">Hí lô 👋, Tôi là TuiㅤKoㅤCóㅤTên</h1>
 
-[![My Apps](https://img.shields.io/badge/My%20Apps-Click-blueviolet?style=for-the-badge)](https://soctrungkien.github.io/KeyGen/)
+[![My Apps](https://img.shields.io/badge/My%20Apps-Click-blueviolet?style=for-the-badge)](https://soctrungkien.github.io)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soctrungkien&label=Profile%20views&color=0e75b6&style=flat" alt="soctrungkien" /> </p>
 
