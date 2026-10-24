@@ -2,7 +2,7 @@
   "version": 1,
   "login": "soctrungkien",
   "seed": "#6452D5",
-  "seedFromAvatar": true,
+  "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
@@ -18,82 +18,29 @@
     "hero"
   ],
   "hidden": [
-    "hero",
+    "stack",
     "about",
-    "stack"
+    "hero"
   ],
   "hero": {
-    "greeting": "",
-    "name": " ",
-    "subtitle": "",
+    "greeting": "Chào bạn, mình là",
+    "name": "",
+    "subtitle": "Tôi xây dựng các giao diện và những công cụ nhỏ hữu ích.",
     "typing": true,
     "avatarShape": "pill",
     "chips": []
   },
   "about": {
-    "title": "About me",
-    "items": [
-      {
-        "icon": "person",
-        "label": "Developer and designer"
-      },
-      {
-        "icon": "code",
-        "label": "Mostly frontend"
-      },
-      {
-        "icon": "palette",
-        "label": "Into Material Design"
-      }
-    ]
+    "title": "Về tôi",
+    "items": []
   },
   "stack": {
-    "title": "Tech stack",
-    "groups": [
-      {
-        "title": "Main",
-        "items": [
-          {
-            "icon": "brand:typescript",
-            "label": "TypeScript"
-          },
-          {
-            "icon": "brand:react",
-            "label": "React"
-          },
-          {
-            "icon": "brand:python",
-            "label": "Python"
-          }
-        ]
-      },
-      {
-        "title": "Tools",
-        "items": [
-          {
-            "icon": "brand:git",
-            "label": "Git"
-          },
-          {
-            "icon": "brand:figma",
-            "label": "Figma"
-          },
-          {
-            "icon": "brand:githubactions",
-            "label": "GitHub Actions"
-          }
-        ]
-      }
-    ]
+    "title": "Bộ công nghệ",
+    "groups": []
   },
   "projects": {
     "source": "pinned",
-    "repos": [
-      "scriptroblox",
-      "hosts",
-      "ZaliaBetter-Info",
-      "1HzH9Axaj"
-    ],
+    "repos": [],
     "overrides": {},
     "empty": "Chưa có mô tả.",
     "fork": "Fork"
