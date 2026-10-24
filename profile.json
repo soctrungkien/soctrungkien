@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "login": "soctrungkien",
+  "seed": "#6452D5",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons",
+    "socials",
+    "about",
+    "stack",
+    "hero"
+  ],
+  "hidden": [
+    "hero",
+    "about",
+    "stack"
+  ],
+  "hero": {
+    "greeting": "",
+    "name": " ",
+    "subtitle": "",
+    "typing": true,
+    "avatarShape": "pill",
+    "chips": []
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and designer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly frontend"
+      },
+      {
+        "icon": "palette",
+        "label": "Into Material Design"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [
+      "scriptroblox",
+      "hosts",
+      "ZaliaBetter-Info",
+      "1HzH9Axaj"
+    ],
+    "overrides": {},
+    "empty": "Chưa có mô tả.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "Hoạt động trên GitHub",
+    "stars": "Số sao đạt được",
+    "contributions": "Các khoản đóng góp trong",
+    "repos": "Các kho lưu trữ công kha",
+    "followers": "Người theo dõi",
+    "calendar": "21 ngày qua",
+    "weekdays": "CHBTNSB",
+    "languages": "Các ngôn ngữ trong các kho lưu trữ của tôi",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Chuỗi",
+    "current": "Chuỗi hiện tại",
+    "longest": "Dài nhất trong năm nay",
+    "days": "ngày"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/realknoname"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": false
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "Trang web của tôi",
+        "url": "https://soctrungkien.github.io/",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "Tất cả kho lưu trữ",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}

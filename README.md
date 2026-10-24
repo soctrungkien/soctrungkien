@@ -1,17 +1,19 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<a href="https://github.com/soctrungkien/scriptroblox"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-scriptroblox-dark.svg"><img src="assets/project-scriptroblox-light.svg" width="49%" alt="scriptroblox"></picture></a>&nbsp;<a href="https://github.com/soctrungkien/hosts"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hosts-dark.svg"><img src="assets/project-hosts-light.svg" width="49%" alt="hosts"></picture></a>
+
+<a href="https://github.com/soctrungkien/ZaliaBetter-Info"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-zaliabetter-info-dark.svg"><img src="assets/project-zaliabetter-info-light.svg" width="49%" alt="ZaliaBetter-Info"></picture></a>&nbsp;<a href="https://github.com/soctrungkien/1HzH9Axaj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-1hzh9axaj-dark.svg"><img src="assets/project-1hzh9axaj-light.svg" width="49%" alt="1HzH9Axaj"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="Hoạt động trên GitHub"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Chuỗi"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://soctrungkien.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="Trang web của tôi"></picture></a>&nbsp;&nbsp;<a href="https://github.com/soctrungkien?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="Tất cả kho lưu trữ"></picture></a>
+
+<a href="https://t.me/realknoname"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="auto" alt="telegram"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=soctrungkien"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
 </div>
-
-[![My Apps](https://img.shields.io/badge/My%20Apps-Click-blueviolet?style=for-the-badge)](https://soctrungkien.github.io)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soctrungkien&label=Profile%20views&color=0e75b6&style=flat" alt="soctrungkien" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soctrungkien&locale=vi&theme=dracula&margin-w=15&no-frame=true" alt="soctrungkien" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soctrungkien&show_icons=true&locale=vi&layout=compact&theme=dracula&no-frame=true" alt="soctrungkien" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soctrungkien&show_icons=true&locale=vi&theme=dracula&no-frame=true" alt="soctrungkien" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soctrungkien&&locale=vi&theme=dracula&no-frame=true" alt="soctrungkien" /></p>
