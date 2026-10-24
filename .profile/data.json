@@ -1,0 +1,746 @@
+{
+ "key": "4eb18273",
+ "stars": 14,
+ "contributions": 823,
+ "repos": 51,
+ "followers": 9,
+ "languages": [
+  [
+   "Lua",
+   3673731
+  ],
+  [
+   "HTML",
+   2917238
+  ],
+  [
+   "JavaScript",
+   1019208
+  ],
+  [
+   "Kotlin",
+   343416
+  ],
+  [
+   "C++",
+   19161
+  ],
+  [
+   "Python",
+   15822
+  ],
+  [
+   "CSS",
+   9385
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 1,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 16,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 16,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 2,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 24,
+    "today": true
+   }
+  ]
+ ],
+ "streak": {
+  "current": 5,
+  "longest": 13
+ },
+ "pins": [
+  {
+   "name": "scriptroblox",
+   "url": "https://github.com/soctrungkien/scriptroblox",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "KeyGen",
+   "url": "https://github.com/soctrungkien/KeyGen",
+   "text": "Phần mềm tạo key",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Meme",
+   "url": "https://github.com/soctrungkien/Meme",
+   "text": "Lấy meme ngẫu nhiên nhờ api phimtat.vn",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "CreatePage",
+   "url": "https://github.com/soctrungkien/CreatePage",
+   "text": "Create a page free",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "GAG-Calc",
+   "url": "https://github.com/soctrungkien/GAG-Calc",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "soctrungkien.github.io",
+   "url": "https://github.com/soctrungkien/soctrungkien.github.io",
+   "text": "My Apps",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "MagiskOnWSA",
+   "url": "https://github.com/soctrungkien/MagiskOnWSA",
+   "text": "Install WSA with Android 12.1 with Magisk root and Google Apps Windows Subsystem for Android)",
+   "fork": true,
+   "stars": 138,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "ZaliaBetter",
+   "url": "https://github.com/soctrungkien/ZaliaBetter",
+   "text": "A Minecraft: Java Edition Launcher for Android",
+   "fork": true,
+   "stars": 7,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "compose",
+    "jetpack-compose",
+    "material3",
+    "minecraft",
+    "minecraft-launcher",
+    "zalith",
+    "zalith-launcher",
+    "zalithlauncher"
+   ]
+  },
+  {
+   "name": "LeviLaunchroid",
+   "url": "https://github.com/soctrungkien/LeviLaunchroid",
+   "text": "A launcher designed for Minecraft Bedrock Edition on Android",
+   "fork": true,
+   "stars": 3,
+   "language": "Java",
+   "topics": [
+    "mcpe",
+    "minecraft"
+   ]
+  },
+  {
+   "name": "scriptroblox",
+   "url": "https://github.com/soctrungkien/scriptroblox",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "Prometheus",
+   "url": "https://github.com/soctrungkien/Prometheus",
+   "text": "Lua Obfuscator written in pure Lua",
+   "fork": true,
+   "stars": 1,
+   "language": "Lua",
+   "topics": [
+    "lua",
+    "lua51",
+    "luajit",
+    "luau",
+    "minification",
+    "obfuscation",
+    "obfuscator"
+   ]
+  },
+  {
+   "name": "hosts",
+   "url": "https://github.com/soctrungkien/hosts",
+   "text": "An automated repository that compiles and generates a high-performance hosts blocklist to defeat ads, trackers, and telemetry.",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "adaway",
+    "adaway-blocklist",
+    "adblock",
+    "adblock-list",
+    "adblock-lists",
+    "adblocker",
+    "adblocker-lists",
+    "adblocking",
+    "bindhosts",
+    "blocklist"
+   ]
+  },
+  {
+   "name": "dpt-shell",
+   "url": "https://github.com/soctrungkien/dpt-shell",
+   "text": "An android Dex protection shell implementation",
+   "fork": true,
+   "stars": 1,
+   "language": "Java",
+   "topics": [
+    "aab",
+    "android",
+    "anti-debugger",
+    "apk",
+    "dex",
+    "security-tools"
+   ]
+  },
+  {
+   "name": "rawupload",
+   "url": "https://github.com/soctrungkien/rawupload",
+   "text": "No Ads, no login. Just free and fast",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "ZaliaBetter-Info",
+   "url": "https://github.com/soctrungkien/ZaliaBetter-Info",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "soctrungkien.github.io",
+   "url": "https://github.com/soctrungkien/soctrungkien.github.io",
+   "text": "My Apps",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "GAG-Calc",
+   "url": "https://github.com/soctrungkien/GAG-Calc",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "CreatePage",
+   "url": "https://github.com/soctrungkien/CreatePage",
+   "text": "Create a page free",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Meme",
+   "url": "https://github.com/soctrungkien/Meme",
+   "text": "Lấy meme ngẫu nhiên nhờ api phimtat.vn",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "soctrungkien",
+   "url": "https://github.com/soctrungkien/soctrungkien",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "KeyGen",
+   "url": "https://github.com/soctrungkien/KeyGen",
+   "text": "Phần mềm tạo key",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "key",
+   "url": "https://github.com/soctrungkien/key",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "1HzH9Axaj",
+   "url": "https://github.com/soctrungkien/1HzH9Axaj",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Win11-Emoji-Magisk",
+   "url": "https://github.com/soctrungkien/Win11-Emoji-Magisk",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "This-is-Recorder",
+   "url": "https://github.com/soctrungkien/This-is-Recorder",
+   "text": "This is Recorder là ứng dụng quay màn hình Android. Ứng dụng hỗ trợ quay màn hình bằng MediaProjection hoặc Root, ghi âm micrô và âm thanh nội bộ, tùy chỉnh độ phân giải, FPS, bitrate và hẹn giờ. Tích hợp Quick Settings, thông báo điều khiển, lưu video và chia sẻ bản ghi dễ dàng.",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "android-app",
+    "android-application",
+    "miuix",
+    "recorder",
+    "recorder-app",
+    "root",
+    "this",
+    "thisis"
+   ]
+  },
+  {
+   "name": "ZaloXposed",
+   "url": "https://github.com/soctrungkien/ZaloXposed",
+   "text": "Experimental Xposed module for Zalo",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "rotato",
+   "url": "https://github.com/soctrungkien/rotato",
+   "text": "Zero-dependency Node.js LLM proxy that auto-rotates API keys for OpenAI, Gemini, Groq and OpenRouter on 429s",
+   "fork": true,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Gboard-patches",
+   "url": "https://github.com/soctrungkien/Gboard-patches",
+   "text": "Morphe patches for Gboard with practical upgrades for global users",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "siri",
+   "url": "https://github.com/soctrungkien/siri",
+   "text": "SiriSphere Web là bản port chuẩn xác của module hiệu ứng cầu Siri Android sang WebGL2 thuần túy, giữ nguyên state machine và mã nguồn shader GLSL ES 3.00 gốc mà không phụ thuộc bất kỳ thư viện ngoài nào.",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": [
+    "animation",
+    "animation-effects",
+    "animations",
+    "glsl",
+    "glsl-shader",
+    "glsl-shaders",
+    "html",
+    "siri",
+    "web",
+    "webgl2"
+   ]
+  },
+  {
+   "name": "GKI_BakaSU_SUSFS",
+   "url": "https://github.com/soctrungkien/GKI_BakaSU_SUSFS",
+   "text": "A git repo that automaticly compile kernel using GitHub Actions with BakaSU and various optional features including SUSFS, Droidspaces, and so on. Currently supports all LTS kernel from 5.10 to 6.18.",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "KPatch-Next-Module",
+   "url": "https://github.com/soctrungkien/KPatch-Next-Module",
+   "text": "Standalone implementation of KPM support for Magisk/KernelSU",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "AlwaysStrong",
+   "url": "https://github.com/soctrungkien/AlwaysStrong",
+   "text": "Always Strong: Strong Play Integrity in one drop in module TEESimulator-RS + PlayIntegrityFork bundled.",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "libLocketGold",
+   "url": "https://github.com/soctrungkien/libLocketGold",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": [
+    "android",
+    "android-app",
+    "android-library",
+    "apk",
+    "apk-build",
+    "apk-patch",
+    "dex",
+    "locket",
+    "locket-camera",
+    "locket-gold"
+   ]
+  },
+  {
+   "name": "FrostKeys",
+   "url": "https://github.com/soctrungkien/FrostKeys",
+   "text": "FrostKeys automatic apks builder with signed apks",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "name",
+   "url": "https://github.com/soctrungkien/name",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "render",
+   "url": "https://github.com/soctrungkien/render",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "libHihiPatch",
+   "url": "https://github.com/soctrungkien/libHihiPatch",
+   "text": "For my Minecraft mod",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "KeyBoxChecker",
+   "url": "https://github.com/soctrungkien/KeyBoxChecker",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "UN1CA",
+   "url": "https://github.com/soctrungkien/UN1CA",
+   "text": "Work-in-progress custom firmware for Samsung Galaxy devices.",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "Bot-blacklist",
+   "url": "https://github.com/soctrungkien/Bot-blacklist",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Calc",
+   "url": "https://github.com/soctrungkien/Calc",
+   "text": "Just Calc",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": [
+    "calculator",
+    "calculator-app",
+    "lineageos"
+   ]
+  },
+  {
+   "name": "AccessibilityManager",
+   "url": "https://github.com/soctrungkien/AccessibilityManager",
+   "text": "This app can fully replace the accessibility settings page in your system. It only requires permission to write to secure settings to function. It supports accessibility keep-alive, features low power consumption without active wake-ups, and offers ultra-fast service restoration.",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "locketgold",
+   "url": "https://github.com/soctrungkien/locketgold",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "TaskManager",
+   "url": "https://github.com/soctrungkien/TaskManager",
+   "text": "A Task Manager for android",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "quackexternal",
+   "url": "https://github.com/soctrungkien/quackexternal",
+   "text": "auto update offset",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "ScreenOffVN",
+   "url": "https://github.com/soctrungkien/ScreenOffVN",
+   "text": "Một ứng dụng khoảng 1MB để điều khiển màn hình Android của bạn hiển thị hoặc không hiển thị thông qua Shizuku. Các ứng dụng khác sẽ TIẾP TỤC hoạt động sau khi màn hình bị tắt bằng ứng dụng này.",
+   "fork": true,
+   "stars": 0,
+   "language": "SCSS",
+   "topics": []
+  },
+  {
+   "name": "project-33dtd",
+   "url": "https://github.com/soctrungkien/project-33dtd",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "FastDownload-Github",
+   "url": "https://github.com/soctrungkien/FastDownload-Github",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "chrome",
+   "url": "https://github.com/soctrungkien/chrome",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "vps-project-1765089897256",
+   "url": "https://github.com/soctrungkien/vps-project-1765089897256",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "jdioawjmnodfiwa",
+   "url": "https://github.com/soctrungkien/jdioawjmnodfiwa",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "vps-github",
+   "url": "https://github.com/soctrungkien/vps-github",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "server-web",
+   "url": "https://github.com/soctrungkien/server-web",
+   "text": "🌍 Fabric Server Web Mod (1.21.8)",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "auth",
+   "url": "https://github.com/soctrungkien/auth",
+   "text": "login and register system",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "dragweb",
+   "url": "https://github.com/soctrungkien/dragweb",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "ukx",
+   "url": "https://github.com/soctrungkien/ukx",
+   "text": "đừng ăn cắp code js của tui",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "sload",
+   "url": "https://github.com/soctrungkien/sload",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  }
+ ]
+}
