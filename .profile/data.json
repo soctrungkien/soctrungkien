@@ -1,5 +1,5 @@
 {
- "key": "14caca4e",
+ "key": "ec0133e4",
  "stars": 14,
  "contributions": 848,
  "repos": 52,
@@ -19,7 +19,7 @@
   ],
   [
    "Kotlin",
-   467733
+   470520
   ],
   [
    "C++",
@@ -409,7 +409,7 @@
   {
    "name": "This-is-Recorder",
    "url": "https://github.com/soctrungkien/This-is-Recorder",
-   "text": "This is Recorder là ứng dụng quay màn hình Android. Ứng dụng hỗ trợ quay màn hình bằng MediaProjection hoặc Root, ghi âm micrô và âm thanh nội bộ, tùy chỉnh độ phân giải, FPS, bitrate và hẹn giờ. Tích hợp Quick Settings, thông báo điều khiển, lưu video và chia sẻ bản ghi dễ dàng.",
+   "text": "This is Recorder là ứng dụng quay màn hình Android viết bằng Kotlin, giao diện Miuix hiện đại. Hỗ trợ 2 chế độ Chuẩn (MediaProjection) và Screenrecord (ADB/Shizuku/Root) không cần hộp thoại cấp quyền, tùy chỉnh âm thanh linh hoạt, hiệu ứng kính mờ và mã nguồn mở MIT.",
    "fork": false,
    "stars": 0,
    "language": "Kotlin",
