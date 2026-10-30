@@ -1,5 +1,5 @@
 {
- "key": "cdc227e5",
+ "key": "8ff44826",
  "stars": 15,
  "contributions": 852,
  "repos": 53,
@@ -273,6 +273,15 @@
    ]
   },
   {
+   "name": "ZaloXposed",
+   "url": "https://github.com/soctrungkien/ZaloXposed",
+   "text": "Experimental Xposed module for Zalo",
+   "fork": true,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
    "name": "Prometheus",
    "url": "https://github.com/soctrungkien/Prometheus",
    "text": "Lua Obfuscator written in pure Lua",
@@ -440,15 +449,6 @@
    "fork": false,
    "stars": 0,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "ZaloXposed",
-   "url": "https://github.com/soctrungkien/ZaloXposed",
-   "text": "Experimental Xposed module for Zalo",
-   "fork": true,
-   "stars": 0,
-   "language": "Java",
    "topics": []
   },
   {
