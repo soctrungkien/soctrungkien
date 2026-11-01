@@ -1,7 +1,7 @@
 {
- "key": "1922f0f3",
+ "key": "8b692aa3",
  "stars": 16,
- "contributions": 863,
+ "contributions": 869,
  "repos": 53,
  "followers": 9,
  "languages": [
@@ -15,7 +15,7 @@
   ],
   [
    "JavaScript",
-   1040785
+   1041583
   ],
   [
    "Kotlin",
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 3,
+    "c": 9,
     "day": 1,
     "today": true
    },
@@ -244,21 +244,21 @@
    ]
   },
   {
+   "name": "ZaloXposed",
+   "url": "https://github.com/soctrungkien/ZaloXposed",
+   "text": "Experimental Xposed module for Zalo",
+   "fork": true,
+   "stars": 2,
+   "language": "Java",
+   "topics": []
+  },
+  {
    "name": "scriptroblox",
    "url": "https://github.com/soctrungkien/scriptroblox",
    "text": "",
    "fork": false,
    "stars": 2,
    "language": "Lua",
-   "topics": []
-  },
-  {
-   "name": "ZaloXposed",
-   "url": "https://github.com/soctrungkien/ZaloXposed",
-   "text": "Experimental Xposed module for Zalo",
-   "fork": true,
-   "stars": 1,
-   "language": "Java",
    "topics": []
   },
   {
