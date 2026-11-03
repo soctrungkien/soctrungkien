@@ -1,5 +1,5 @@
 {
- "key": "aac59f33",
+ "key": "8bcd3852",
  "stars": 16,
  "contributions": 877,
  "repos": 53,
@@ -118,9 +118,13 @@
    {
     "c": 8,
     "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
     "today": true
    },
-   null,
    null,
    null,
    null,
