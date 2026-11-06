@@ -1,5 +1,5 @@
 {
- "key": "bbd5560a",
+ "key": "a8e7e25f",
  "stars": 16,
  "contributions": 887,
  "repos": 54,
@@ -273,6 +273,22 @@
    "topics": []
   },
   {
+   "name": "dpt-shell",
+   "url": "https://github.com/soctrungkien/dpt-shell",
+   "text": "An android Dex protection shell implementation",
+   "fork": true,
+   "stars": 2,
+   "language": "Java",
+   "topics": [
+    "aab",
+    "android",
+    "anti-debugger",
+    "apk",
+    "dex",
+    "security-tools"
+   ]
+  },
+  {
    "name": "scriptroblox",
    "url": "https://github.com/soctrungkien/scriptroblox",
    "text": "",
@@ -316,22 +332,6 @@
     "adblocking",
     "bindhosts",
     "blocklist"
-   ]
-  },
-  {
-   "name": "dpt-shell",
-   "url": "https://github.com/soctrungkien/dpt-shell",
-   "text": "An android Dex protection shell implementation",
-   "fork": true,
-   "stars": 1,
-   "language": "Java",
-   "topics": [
-    "aab",
-    "android",
-    "anti-debugger",
-    "apk",
-    "dex",
-    "security-tools"
    ]
   },
   {
