@@ -1,6 +1,6 @@
 {
- "key": "bafc80de",
- "stars": 16,
+ "key": "4881058c",
+ "stars": 17,
  "contributions": 512,
  "repos": 53,
  "followers": 9,
@@ -11,7 +11,7 @@
   ],
   [
    "HTML",
-   2975326
+   2979576
   ],
   [
    "JavaScript",
@@ -253,6 +253,26 @@
    "topics": []
   },
   {
+   "name": "hosts",
+   "url": "https://github.com/soctrungkien/hosts",
+   "text": "An automated repository that compiles and generates a high-performance hosts blocklist to defeat ads, trackers, and telemetry.",
+   "fork": false,
+   "stars": 2,
+   "language": "Python",
+   "topics": [
+    "adaway",
+    "adaway-blocklist",
+    "adblock",
+    "adblock-list",
+    "adblock-lists",
+    "adblocker",
+    "adblocker-lists",
+    "adblocking",
+    "bindhosts",
+    "blocklist"
+   ]
+  },
+  {
    "name": "dpt-shell",
    "url": "https://github.com/soctrungkien/dpt-shell",
    "text": "An android Dex protection shell implementation",
@@ -278,6 +298,23 @@
    "topics": []
   },
   {
+   "name": "AdAway-Community-Monet",
+   "url": "https://github.com/soctrungkien/AdAway-Community-Monet",
+   "text": "Unofficial community fork of AdAway focused on VPN stability, recent Android compatibility and Android TV support.",
+   "fork": true,
+   "stars": 1,
+   "language": "C",
+   "topics": [
+    "adaway",
+    "adblock",
+    "android",
+    "community",
+    "fork",
+    "patched",
+    "update"
+   ]
+  },
+  {
    "name": "Prometheus",
    "url": "https://github.com/soctrungkien/Prometheus",
    "text": "Lua Obfuscator written in pure Lua",
@@ -292,26 +329,6 @@
     "minification",
     "obfuscation",
     "obfuscator"
-   ]
-  },
-  {
-   "name": "hosts",
-   "url": "https://github.com/soctrungkien/hosts",
-   "text": "An automated repository that compiles and generates a high-performance hosts blocklist to defeat ads, trackers, and telemetry.",
-   "fork": false,
-   "stars": 1,
-   "language": "Python",
-   "topics": [
-    "adaway",
-    "adaway-blocklist",
-    "adblock",
-    "adblock-list",
-    "adblock-lists",
-    "adblocker",
-    "adblocker-lists",
-    "adblocking",
-    "bindhosts",
-    "blocklist"
    ]
   },
   {
@@ -412,23 +429,6 @@
    "stars": 1,
    "language": null,
    "topics": []
-  },
-  {
-   "name": "AdAway-Community-Monet",
-   "url": "https://github.com/soctrungkien/AdAway-Community-Monet",
-   "text": "Unofficial community fork of AdAway focused on VPN stability, recent Android compatibility and Android TV support.",
-   "fork": true,
-   "stars": 0,
-   "language": "C",
-   "topics": [
-    "adaway",
-    "adblock",
-    "android",
-    "community",
-    "fork",
-    "patched",
-    "update"
-   ]
   },
   {
    "name": "web-to-app",
