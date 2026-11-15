@@ -1,8 +1,8 @@
 {
- "key": "3df2b8b9",
+ "key": "b1cbf4d5",
  "stars": 17,
- "contributions": 520,
- "repos": 54,
+ "contributions": 548,
+ "repos": 53,
  "followers": 9,
  "languages": [
   [
@@ -37,43 +37,6 @@
  "days": [
   [
    {
-    "c": 7,
-    "day": 25,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 26,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 27,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 28,
-    "today": false
-   },
-   {
-    "c": 1,
-    "day": 29,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 30,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 31,
-    "today": false
-   }
-  ],
-  [
-   {
     "c": 0,
     "day": 1,
     "today": false
@@ -89,7 +52,7 @@
     "today": false
    },
    {
-    "c": 5,
+    "c": 6,
     "day": 4,
     "today": false
    },
@@ -141,14 +104,27 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 0,
     "day": 14,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 15,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 8
  },
  "pins": [
@@ -451,15 +427,6 @@
    "text": "",
    "fork": false,
    "stars": 1,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "MicroGPatch",
-   "url": "https://github.com/soctrungkien/MicroGPatch",
-   "text": "",
-   "fork": false,
-   "stars": 0,
    "language": null,
    "topics": []
   },
