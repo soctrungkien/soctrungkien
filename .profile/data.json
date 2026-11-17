@@ -1,5 +1,5 @@
 {
- "key": "29f24b75",
+ "key": "7794f49b",
  "stars": 17,
  "contributions": 551,
  "repos": 55,
@@ -254,11 +254,14 @@
   {
    "name": "ZaloXposed",
    "url": "https://github.com/soctrungkien/ZaloXposed",
-   "text": "Experimental Xposed module for Zalo",
+   "text": "Xposed module for Zalo",
    "fork": true,
    "stars": 2,
    "language": "Java",
-   "topics": []
+   "topics": [
+    "zalo",
+    "zalo-android"
+   ]
   },
   {
    "name": "hosts",
