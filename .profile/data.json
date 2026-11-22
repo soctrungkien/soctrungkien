@@ -1,7 +1,7 @@
 {
- "key": "e32bd5e5",
+ "key": "20c96bb",
  "stars": 17,
- "contributions": 569,
+ "contributions": 576,
  "repos": 55,
  "followers": 9,
  "languages": [
@@ -19,7 +19,7 @@
   ],
   [
    "Kotlin",
-   509684
+   543169
   ],
   [
    "C++",
@@ -35,43 +35,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 0,
-    "day": 1,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 2,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 3,
-    "today": false
-   },
-   {
-    "c": 6,
-    "day": 4,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 5,
-    "today": false
-   },
-   {
-    "c": 3,
-    "day": 6,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 7,
-    "today": false
-   }
-  ],
   [
    {
     "c": 0,
@@ -143,12 +106,25 @@
    {
     "c": 1,
     "day": 21,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 7,
+    "day": 22,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 8
  },
  "pins": [
