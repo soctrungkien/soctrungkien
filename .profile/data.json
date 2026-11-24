@@ -1,7 +1,7 @@
 {
- "key": "d5225fc9",
- "stars": 17,
- "contributions": 586,
+ "key": "53d8ad56",
+ "stars": 18,
+ "contributions": 589,
  "repos": 55,
  "followers": 10,
  "languages": [
@@ -19,7 +19,7 @@
   ],
   [
    "Kotlin",
-   597895
+   592650
   ],
   [
    "C++",
@@ -121,7 +121,7 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 6,
     "day": 24,
     "today": true
    },
@@ -221,6 +221,25 @@
    ]
   },
   {
+   "name": "This-is-Recorder",
+   "url": "https://github.com/soctrungkien/This-is-Recorder",
+   "text": "This is Recorder là ứng dụng quay màn hình Android viết bằng Kotlin, giao diện Miuix hiện đại. Hỗ trợ 2 chế độ Chuẩn (MediaProjection) và Screenrecord (ADB/Shizuku/Root) không cần hộp thoại cấp quyền, tùy chỉnh âm thanh linh hoạt, hiệu ứng kính mờ và mã nguồn mở MIT.",
+   "fork": false,
+   "stars": 3,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "android-app",
+    "android-application",
+    "miuix",
+    "recorder",
+    "recorder-app",
+    "root",
+    "this",
+    "thisis"
+   ]
+  },
+  {
    "name": "ZaloXposed",
    "url": "https://github.com/soctrungkien/ZaloXposed",
    "text": "Xposed module for Zalo",
@@ -233,8 +252,8 @@
    ]
   },
   {
-   "name": "LeviLaunchroid",
-   "url": "https://github.com/soctrungkien/LeviLaunchroid",
+   "name": "LeviLauncher-Android",
+   "url": "https://github.com/soctrungkien/LeviLauncher-Android",
    "text": "A launcher designed for Minecraft Bedrock Edition on Android",
    "fork": true,
    "stars": 3,
@@ -242,25 +261,6 @@
    "topics": [
     "mcpe",
     "minecraft"
-   ]
-  },
-  {
-   "name": "This-is-Recorder",
-   "url": "https://github.com/soctrungkien/This-is-Recorder",
-   "text": "This is Recorder là ứng dụng quay màn hình Android viết bằng Kotlin, giao diện Miuix hiện đại. Hỗ trợ 2 chế độ Chuẩn (MediaProjection) và Screenrecord (ADB/Shizuku/Root) không cần hộp thoại cấp quyền, tùy chỉnh âm thanh linh hoạt, hiệu ứng kính mờ và mã nguồn mở MIT.",
-   "fork": false,
-   "stars": 2,
-   "language": "Kotlin",
-   "topics": [
-    "android",
-    "android-app",
-    "android-application",
-    "miuix",
-    "recorder",
-    "recorder-app",
-    "root",
-    "this",
-    "thisis"
    ]
   },
   {
