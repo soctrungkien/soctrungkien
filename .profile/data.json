@@ -1,8 +1,8 @@
 {
- "key": "34e04675",
+ "key": "37f284e3",
  "stars": 18,
- "contributions": 589,
- "repos": 55,
+ "contributions": 575,
+ "repos": 46,
  "followers": 10,
  "languages": [
   [
@@ -27,7 +27,7 @@
   ],
   [
    "Python",
-   16880
+   16130
   ],
   [
    "CSS",
@@ -79,7 +79,7 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 2,
     "day": 16,
     "today": false
    },
@@ -464,48 +464,12 @@
    "topics": []
   },
   {
-   "name": "meetube",
-   "url": "https://github.com/soctrungkien/meetube",
-   "text": "MeeTube: a modern YouTube and YouTube Music client in one app, with an aesthetic liquid glass UI. No ads, background play, synced lyrics and 4K downloads, on Android phones and TVs.",
-   "fork": true,
-   "stars": 0,
-   "language": "Java",
-   "topics": []
-  },
-  {
    "name": "web-to-app",
    "url": "https://github.com/soctrungkien/web-to-app",
    "text": "The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone",
    "fork": true,
    "stars": 0,
    "language": "Kotlin",
-   "topics": []
-  },
-  {
-   "name": "9router-render-template-mvm0yxxk",
-   "url": "https://github.com/soctrungkien/9router-render-template-mvm0yxxk",
-   "text": "Created from render-examples/9router-render-template template",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "rotato",
-   "url": "https://github.com/soctrungkien/rotato",
-   "text": "Zero-dependency Node.js LLM proxy that auto-rotates API keys for OpenAI, Gemini, Groq and OpenRouter on 429s",
-   "fork": true,
-   "stars": 0,
-   "language": "HTML",
-   "topics": []
-  },
-  {
-   "name": "Gboard-patches",
-   "url": "https://github.com/soctrungkien/Gboard-patches",
-   "text": "Morphe patches for Gboard with practical upgrades for global users",
-   "fork": true,
-   "stars": 0,
-   "language": "Java",
    "topics": []
   },
   {
@@ -547,15 +511,6 @@
    "topics": []
   },
   {
-   "name": "AlwaysStrong",
-   "url": "https://github.com/soctrungkien/AlwaysStrong",
-   "text": "Always Strong: Strong Play Integrity in one drop in module TEESimulator-RS + PlayIntegrityFork bundled.",
-   "fork": true,
-   "stars": 0,
-   "language": "Shell",
-   "topics": []
-  },
-  {
    "name": "libLocketGold",
    "url": "https://github.com/soctrungkien/libLocketGold",
    "text": "",
@@ -585,30 +540,12 @@
    "topics": []
   },
   {
-   "name": "render",
-   "url": "https://github.com/soctrungkien/render",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
-   "topics": []
-  },
-  {
    "name": "libHihiPatch",
    "url": "https://github.com/soctrungkien/libHihiPatch",
    "text": "For my Minecraft mod",
    "fork": true,
    "stars": 0,
    "language": "C++",
-   "topics": []
-  },
-  {
-   "name": "KeyBoxChecker",
-   "url": "https://github.com/soctrungkien/KeyBoxChecker",
-   "text": "",
-   "fork": true,
-   "stars": 0,
-   "language": "JavaScript",
    "topics": []
   },
   {
@@ -643,30 +580,12 @@
    ]
   },
   {
-   "name": "AccessibilityManager",
-   "url": "https://github.com/soctrungkien/AccessibilityManager",
-   "text": "This app can fully replace the accessibility settings page in your system. It only requires permission to write to secure settings to function. It supports accessibility keep-alive, features low power consumption without active wake-ups, and offers ultra-fast service restoration.",
-   "fork": true,
-   "stars": 0,
-   "language": "Java",
-   "topics": []
-  },
-  {
    "name": "locketgold",
    "url": "https://github.com/soctrungkien/locketgold",
    "text": "",
    "fork": false,
    "stars": 0,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "TaskManager",
-   "url": "https://github.com/soctrungkien/TaskManager",
-   "text": "A Task Manager for android",
-   "fork": true,
-   "stars": 0,
-   "language": "C++",
    "topics": []
   },
   {
