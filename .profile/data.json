@@ -1,5 +1,5 @@
 {
- "key": "37f284e3",
+ "key": "34556fee",
  "stars": 18,
  "contributions": 575,
  "repos": 46,
@@ -11,7 +11,7 @@
   ],
   [
    "HTML",
-   3210828
+   3256896
   ],
   [
    "JavaScript",
@@ -128,15 +128,19 @@
    {
     "c": 0,
     "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
     "today": true
    },
-   null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 8
  },
  "pins": [
