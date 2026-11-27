@@ -1,5 +1,5 @@
 {
- "key": "155d090d",
+ "key": "8736d4d6",
  "stars": 18,
  "contributions": 575,
  "repos": 46,
@@ -233,6 +233,18 @@
    ]
   },
   {
+   "name": "ZaloXposed",
+   "url": "https://github.com/soctrungkien/ZaloXposed",
+   "text": "Xposed module for Zalo",
+   "fork": true,
+   "stars": 4,
+   "language": "Java",
+   "topics": [
+    "zalo",
+    "zalo-android"
+   ]
+  },
+  {
    "name": "This-is-Recorder",
    "url": "https://github.com/soctrungkien/This-is-Recorder",
    "text": "This is Recorder là ứng dụng quay màn hình Android viết bằng Kotlin, giao diện Miuix hiện đại. Hỗ trợ 2 chế độ Chuẩn (MediaProjection) và Screenrecord (ADB/Shizuku/Root) không cần hộp thoại cấp quyền, tùy chỉnh âm thanh linh hoạt, hiệu ứng kính mờ và mã nguồn mở MIT.",
@@ -249,18 +261,6 @@
     "root",
     "this",
     "thisis"
-   ]
-  },
-  {
-   "name": "ZaloXposed",
-   "url": "https://github.com/soctrungkien/ZaloXposed",
-   "text": "Xposed module for Zalo",
-   "fork": true,
-   "stars": 3,
-   "language": "Java",
-   "topics": [
-    "zalo",
-    "zalo-android"
    ]
   },
   {
